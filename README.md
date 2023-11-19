@@ -22,4 +22,4 @@ TBD
 TBD
 
 ## Manipulation Alarm (‼️)
-TBD
+- Setting factors and classfiy with t-SNE?
