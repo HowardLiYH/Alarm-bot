@@ -21,5 +21,11 @@ TBD
 ## Large Volume Alarm
 TBD
 
+## Liquidity Pool Tracking Alarm
+TBD
+
+## Market Maker Large CEX Transfer Alarm
+TBD 
+
 ## Manipulation Alarm (‼️)
 - Setting factors and classfiy with t-SNE?
