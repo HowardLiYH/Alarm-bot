@@ -12,6 +12,25 @@ TBD
 ## Open Interest Alarm
 TBD
 
+## Position Change Alerts
+### OI + CVD
+- OI 🔼 + CVD 🔼 = longs opening (bullish 🟢)
+
+- OI 🔼 + CVD 🔽 = shorts opening (bearish 🔴)
+
+- OI 🔽 + CVD 🔽 = longs closing (bearish 🔴)
+
+- OI 🔽 + CVD 🔼 = shorts closing (bullish 🟢)
+
+### CVD Divergences (Reversal Patterns) 
+- Uptrend Exhaustion = price higher highs + CVD lower highs
+  
+- Uptrend Absorption = price lower highs + CVD higher highs
+  
+- Downtrend Exhaustion = price lower lows + CVD higher lows
+  
+- Downtrend Absorption = price higher lows + CVD lower lows
+
 ## New Listing Alarm
 TBD
 
