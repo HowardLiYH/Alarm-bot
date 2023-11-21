@@ -9,11 +9,13 @@ TBD
 ## Price Alarm
 TBD
 
-## Open Interest Alarm
+##  CEX Alarm
+
+### 1) Open Interest Alarm
 TBD
 
-## Position Change Alerts
-### OI + CVD
+### 2) Position Change Alerts
+#### OI + CVD
 - OI 🔼 + CVD 🔼 = longs opening (bullish 🟢)
 
 - OI 🔼 + CVD 🔽 = shorts opening (bearish 🔴)
@@ -22,7 +24,7 @@ TBD
 
 - OI 🔽 + CVD 🔼 = shorts closing (bullish 🟢)
 
-### CVD Divergences (Reversal Patterns) 
+#### 3) CVD Divergences (Reversal Patterns) 
 - Uptrend Exhaustion = price higher highs + CVD lower highs
   
 - Uptrend Absorption = price lower highs + CVD higher highs
@@ -31,20 +33,24 @@ TBD
   
 - Downtrend Absorption = price higher lows + CVD lower lows
 
-## New Listing Alarm
+### 4) New Listing Alarm
 TBD
 
-## Funding Change Alarm
+### 5) Funding Change Alarm
 TBD
 
-## Large Volume Alarm
+### 6) Large Volume Alarm
 TBD
 
-## Liquidity Pool Tracking Alarm
-TBD
+### 7) Manipulation Alarm (‼️)
+- Setting factors and classfiy with t-SNE?
+
+## On-chain Alarm
+- Large Volume
+- Liquidity Pool Tracking
+- Bitcoin Cycles
 
 ## Market Maker Large CEX Transfer Alarm
 TBD 
 
-## Manipulation Alarm (‼️)
-- Setting factors and classfiy with t-SNE?
+
